@@ -4,6 +4,7 @@
 
 Liftly is a donation and fundraising platform built to bridge the gap between donors and people in need. With an intuitive interface and robust backend, Liftly ensures transparency and ease of use for everyone involved.  
 
+---
 
 ## 📋 **Prerequisites**  
 
@@ -39,69 +40,26 @@ Liftly is a donation and fundraising platform built to bridge the gap between do
   ```
   http://localhost/liftly/
   ```
-
-🎉 **Congratulations! The application is ready to use!**  
-
----
-
-## 🏗️ **Modules Overview**  
-
-### **1. Home Module**  
-- Landing page for the platform showcasing its purpose and vision.  
-
-### **2. Donation Module**  
-- Users can register and log in to make donations securely.  
-- Track donation history and view active campaigns.  
-
-### **3. Admin Module**  
-- Manage donations, users, and campaigns.  
-- View detailed donation reports and analytics.  
-
-### **4. Feedback Module**  
-- Users can provide feedback and suggestions about the platform.  
-- Admins can review and act upon the feedback.
-
----
-
-## 📂 **Project Structure**  
-```
-/liftly
-    |-- index.php        # Homepage
-    |-- donate.php       # Handles donation logic
-    |-- header.php       # Dynamic header
-    |-- footer.php       # Dynamic footer
-    |-- db_config.php    # Database connection setup
-    |-- liftly.sql       # Database schema
-    |-- /assets          # CSS, JS, and images
-```
-
----
-
-## 🔍 **Features Breakdown**  
-
-### **User Features**  
-1. **Register & Login**: Users can create an account to manage their donations.  
-2. **Donate**: Contribute to active campaigns seamlessly.  
-3. **View Donation History**: Keep track of past donations.  
-4. **Feedback**: Provide suggestions and feedback to the platform admins.  
-
-### **Admin Features**  
-1. **Manage Campaigns**: Add, edit, or delete fundraising campaigns.  
-2. **View Donations**: Access detailed reports of all donations.  
-3. **Respond to Feedback**: Act upon user suggestions and complaints.  
-
 ---
 
 ## 🖼️ **Screenshots**  
 
 ### Homepage  
-*(Add a screenshot of your homepage)*  
+<img width="948" alt="{EEF9D633-8153-4977-BB4D-A19637522772}" src="https://github.com/user-attachments/assets/e8c2fa1e-1c0c-45ac-a0c4-61ee89fd7775">
+<img width="469" alt="{67511876-E438-45C5-9186-CFA8FD1FA74A}" src="https://github.com/user-attachments/assets/87700f82-e8e8-4d4d-a3a1-fde13c48ae88">
+<img width="289" alt="{3DD84357-B949-4FE5-9B5A-541BDB3394FE}" src="https://github.com/user-attachments/assets/7bcd70c5-a06f-4d5d-9f0d-5138185bf7db">
+<img width="822" alt="{15695555-E121-4ED0-96F8-4CA5A988A6E8}" src="https://github.com/user-attachments/assets/468ab712-150d-4b99-ac8c-8c9de3e3400d">
+
+### AboutPage
+<img width="815" alt="{C6E0E441-6EC1-4B4C-8B5A-626A12D527C3}" src="https://github.com/user-attachments/assets/1b48a7d7-329a-4349-b8ff-0737da3875bc">
+<img width="814" alt="{CA85BA0D-BBB5-49D7-AAC9-11AE3A1B0BB6}" src="https://github.com/user-attachments/assets/66b71830-c2a6-4151-991c-55afbd7d3cc5">
 
 ### Donation Page  
-*(Add a screenshot of the donation page)*  
+<img width="428" alt="{84CAFE7D-BB67-4DF2-AF03-2D1181919DE9}" src="https://github.com/user-attachments/assets/6e0edd62-d3a1-40bf-8338-e933f51decac">
+ 
 
 ### Database Setup  
-*(Include a screenshot of your database structure)*  
+<img width="765" alt="{8226AEDC-9295-41DD-9244-F07B844F1803}" src="https://github.com/user-attachments/assets/5ce87328-e78d-4953-bb1f-883c99b01ae4">
 
 ---
 
@@ -109,32 +67,3 @@ Liftly is a donation and fundraising platform built to bridge the gap between do
 - **XAMPP**: Web server (Apache2) and database server (MySQL).  
 - **VS Code**: For editing and managing the code.  
 - **Google Chrome**: For running the project in a browser.  
-
----
-
-## 📜 **How to Contribute**  
-We welcome contributions to Liftly!  
-1. Fork the repository.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature-name
-   ```  
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add feature-name"
-   ```  
-4. Push to the branch:  
-   ```bash
-   git push origin feature-name
-   ```  
-5. Open a pull request for review.  
-
----
-
-## ✉️ **Contact**  
-For any queries or feedback, feel free to contact:  
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)  
-
----
-
-Let me know if you'd like to make any adjustments or include more details!
